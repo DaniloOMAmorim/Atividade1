@@ -1,0 +1,7 @@
+C:\dev\github\repository\Tarefa1\Tarefa1\bin\Debug\Tarefa1.exe.config
+C:\dev\github\repository\Tarefa1\Tarefa1\bin\Debug\Tarefa1.exe
+C:\dev\github\repository\Tarefa1\Tarefa1\bin\Debug\Tarefa1.pdb
+C:\dev\github\repository\Tarefa1\Tarefa1\obj\Debug\Tarefa1.csproj.AssemblyReference.cache
+C:\dev\github\repository\Tarefa1\Tarefa1\obj\Debug\Tarefa1.csproj.CoreCompileInputs.cache
+C:\dev\github\repository\Tarefa1\Tarefa1\obj\Debug\Tarefa1.exe
+C:\dev\github\repository\Tarefa1\Tarefa1\obj\Debug\Tarefa1.pdb
